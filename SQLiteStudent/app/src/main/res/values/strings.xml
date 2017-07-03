@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SQLite Student</string>
+
+    <array name="Class">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </array>
+    <array name="Gender">
+        <item>Bay</item>
+        <item>Bayan</item>
+    </array>
+    <string-array name="GenderEntries">
+
+        <item>Male</item>
+        <item>Female</item>
+
+    </string-array>
+
+    <string-array name="ClassEntries">
+
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+
+    </string-array>
+</resources>
